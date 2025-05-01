@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+.venv/
+.env/
+virtualenv/
+_venv/
+*.egg-info/
+
+# Distributions / packaging
+dist/
+build/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist*
+*.bdist*
+*.wheel
+*.whl
+tmp/
+tmp*
+
+# Django specific
+*.log
+*.pot
+*.sqlite3
+local_settings.py
+db.sqlite3
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# OS or Editor Folders
+__MACOSX
+
+# Secret Files
+secrets.json
+*.key
+
+# Static and media files (Optional, if not tracked)
+media/
+static/
