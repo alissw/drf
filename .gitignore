@@ -54,3 +54,5 @@ secrets.json
 # Static and media files (Optional, if not tracked)
 media/
 static/
+
+.gitignore
